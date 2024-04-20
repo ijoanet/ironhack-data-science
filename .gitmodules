@@ -1,0 +1,18 @@
+[submodule "learning"]
+	path = learning
+	url = https://github.com/ijoanet/ironhack-datascience-learning
+[submodule "lab/1-1-dict-sets-tuple"]
+	path = lab/1-1-dict-sets-tuple
+	url = https://github.com/ijoanet/ironhack-data-science-1-1-dict-sets-tuple
+[submodule "lab/1-2-control-flow"]
+	path = lab/1-2-control-flow
+	url = https://github.com/ijoanet/ironhack-data-science-1-2-control-flow
+[submodule "lab/1-3-list-comprehension"]
+	path = lab/1-3-list-comprehension
+	url = https://github.com/ijoanet/ironhack-data-science-1-3-list-comprehension
+[submodule "lab/1-4-functions"]
+	path = lab/1-4-functions
+	url = https://github.com/ijoanet/ironhack-data-science-1-4-functions
+[submodule "lab/1-5-vikings"]
+	path = lab/1-5-vikings
+	url = https://github.com/ijoanet/ironhack-data-science-1-5-vikings
