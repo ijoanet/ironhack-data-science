@@ -23,7 +23,7 @@ conda create -n ironhack-ds
 # Activate environment
 conda activate ironhack-ds
 # Install packages
-conda install --channel conda-forge jupyterlab jupyterlab-lsp python-lsp-server
+conda install --channel conda-forge jupyterlab jupyterlab-lsp python-lsp-server numpy pandas
 ```
 
 Start Jupiter Notebook Server
