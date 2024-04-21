@@ -16,3 +16,6 @@
 [submodule "lab/1-5-vikings"]
 	path = lab/1-5-vikings
 	url = https://github.com/ijoanet/ironhack-data-science-1-5-vikings
+[submodule "lab/1-6-map-filter-reduce"]
+	path = lab/1-6-map-filter-reduce
+	url = https://github.com/ijoanet/ironhack-data-science-1-6-map-filter-reduce
